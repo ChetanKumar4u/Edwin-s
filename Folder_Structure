@@ -7,12 +7,13 @@ agent-genesis/
 │   ├── 02_edwin_integration.js
 │   ├── 03_cross_chain.js
 │   ├── 04_yield_optimization.js
-│   ├── 05_security_layer.js
-│   ├── output.js         <-- Node.js runtime output commands
-│   └── output.sh         <-- CLI shell script version
+│   └── 05_security_layer.js
 ├── docs/
 │   ├── 01_agent_setup.md
-│   └── ... etc.
+│   ├── 02_integration_with_edwin.md
+│   ├── 03_cross_chain_comm.md
+│   ├── 04_yield_optimization.md
+│   └── 05_security_layer.md
 ├── security/
 │   └── tee_integration.md
 └── LICENSE
