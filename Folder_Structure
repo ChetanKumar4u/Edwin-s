@@ -3,7 +3,11 @@ agent-genesis/
 ├── diagrams/
 │   └── agent-genesis-flow.png
 ├── agent-scripts/
-│   └── basic-agent-template.js
+│   ├── 01_agent_setup.js
+│   ├── 02_edwin_integration.js
+│   ├── 03_cross_chain.js
+│   ├── 04_yield_optimization.js
+│   └── 05_security_layer.js
 ├── docs/
 │   ├── 01_agent_setup.md
 │   ├── 02_integration_with_edwin.md
